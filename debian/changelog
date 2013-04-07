@@ -1,9 +1,9 @@
-print-manager (4:4.10.0-0r1) UNRELEASED; urgency=low
+print-manager (4:4.10.2-1) UNRELEASED; urgency=low
 
   * New upstream release
   * Ported kubuntu package to ubuntu
 
- -- Diane Trout <diane@ghic.org>  Wed, 13 Mar 2013 11:13:59 -0700
+ -- Diane Trout <diane@ghic.org>  Sun, 07 Apr 2013 11:44:23 -0700
 
 print-manager (0.2.0-0ubuntu3) quantal; urgency=low
 
